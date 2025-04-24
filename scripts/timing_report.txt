@@ -1,0 +1,20 @@
+Path Group: clk
+Startpoint: reg_A (rising edge-triggered)
+Endpoint: reg_B (rising edge-triggered)
+Path Type: Setup
+
+Clock: clk  (Clock Period: 10.0 ns)
+Data Path Delay: 8.5 ns
+Required Time: 10.0 ns
+Slack: -1.5 ns   <-- VIOLATION (Negative Slack)
+
+--------------------------------------------------------------------------------
+Path Group: clk
+Startpoint: reg_X
+Endpoint: reg_Y
+Path Type: Hold
+
+Clock: clk
+Data Path Delay: 0.3 ns
+Hold Requirement: 0.5 ns
+Slack: 0.2 ns  <-- PASS (Positive Slack)

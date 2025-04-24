@@ -1,0 +1,6 @@
+Running Logical Equivalence Checker (LEC) on RTL Files: C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv and C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv...
+
+LEC Passed: Both files are logically equivalent!
+LEC Analysis Completed.
+
+

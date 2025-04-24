@@ -1,0 +1,7 @@
+Checking Design Rule Compliance for C:/Users/Admin/Desktop/vlsi_integrity_checker/drc_check_rtl/fsm_faulty.sv...
+Module detected: fsm_faulty
+INFO: FSM detected with 2 states (line 7)
+ERROR: Combinational loop detected (line 17)
+Design Rule Compliance Check Completed.
+
+

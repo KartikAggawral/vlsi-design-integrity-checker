@@ -1,0 +1,10 @@
+ Timing Violation Detected! Slack: -1.5 ns
+------ Clock Skew Issues ------
+
+------ Unconstrained Paths ------
+Unconstrained output detected: data_out
+Unconstrained input detected: data_in
+
+------ STA Analysis Completed ------
+
+

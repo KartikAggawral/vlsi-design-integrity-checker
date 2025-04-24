@@ -1,0 +1,75 @@
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 5
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 8
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv at line 8
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 5
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 6
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 15
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 5
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 8
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock.sv at line 8
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 5
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 6
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 15
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 5
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 6
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 15
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 3
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 7
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 8
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 9
+Missing default case in case statement in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_default_case.sv at line 13
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 3
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 6
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 8
+Non-standard register naming: 'wrong_name' should start with 'r_' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 8
+Unused signal detected: 'wrong_name' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 8
+Unused signal detected: 'wrong_name' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 9
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 9
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 11
+Combinational loop detected for signal 'd' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 11
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 2
+Unconnected net: 'unconnected_wire' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 2
+Non-standard wire naming: 'unconnected_wire' should start with 'w_' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 2
+Unused signal detected: 'unconnected_wire' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 2
+Unused signal detected: 'unconnected_wire' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 6
+Duplicate module name 'duplicate_name' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 6
+Unused signal detected: 'unconnected_wire' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 6
+Unused signal detected: 'unconnected_wire' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 7
+Unused signal detected: 'unconnected_wire' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/duplicate_name.sv at line 8
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 1
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 2
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 3
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 4
+Possible missing semicolon in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 5
+Hardcoded constant detected in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 5
+Linting completed.
+
+

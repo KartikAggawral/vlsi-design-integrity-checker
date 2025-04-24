@@ -1,0 +1,26 @@
+Running PPA (Power, Performance, Area) Checker on RTL Files...
+Warning: Flip-flop using undeclared clock 'clk_A' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 10
+Warning: Flip-flop using undeclared clock 'clk_B' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/cdc_violation.sv at line 14
+Warning: Flip-flop using undeclared clock 'clk1' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 10
+Warning: Flip-flop using undeclared clock 'clk2' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/unsafe_cdc.sv at line 14
+Warning: Flip-flop using undeclared clock 'clk1' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 10
+Warning: Flip-flop using undeclared clock 'clk2' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/safe_cdc.sv at line 14
+Warning: Flip-flop using undeclared clock 'clk' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/improper_reset.sv at line 5
+Warning: Flip-flop using undeclared clock 'clk' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/latch_example.sv at line 7
+Warning: Flip-flop using undeclared clock 'clk' in C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/missing_semicolon.sv at line 7
+
+Power Consumption Issues:
+Estimated Power Consumption: Based on flip-flops and toggle activity
+Total Toggles: 0
+Total Flip-Flops (Estimated Area): 9
+Estimated Power Consumption (simplified): 0 mW
+
+Performance Optimization Issues:
+Critical Path Delay (Worst Case): 0 ns
+
+Area Optimization Issues:
+Total Area (Flip-Flops used): 9 gates (simplified)
+
+PPA Analysis Completed.
+
+

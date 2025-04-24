@@ -1,0 +1,17 @@
+Running PPA (Power, Performance, Area) Checker on RTL Files...
+
+Power Consumption Issues:
+Estimated Power Consumption: Based on flip-flops and toggle activity
+Total Toggles: 1
+Total Flip-Flops (Estimated Area): 0
+Estimated Power Consumption (simplified): 0.1 mW
+
+Performance Optimization Issues:
+Critical Path Delay (Worst Case): 0 ns
+
+Area Optimization Issues:
+Total Area (Flip-Flops used): 0 gates (simplified)
+
+PPA Analysis Completed.
+
+

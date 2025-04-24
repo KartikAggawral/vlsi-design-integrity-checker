@@ -1,0 +1,16 @@
+Running Logical Equivalence Checker (LEC) on RTL Files: C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_a.v and C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_b.v...
+Found assign: sum = a^b^cin in C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_a.v at line 2
+Found assign: cout = (a&b)|(b&cin)|(a&cin) in C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_a.v at line 3
+Found assign: sum = a^b in C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_b.v at line 2
+Found assign: cout = (a&b) in C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_b.v at line 3
+
+LEC Errors: Logical Equivalence Issues Found!
+Different assignment for 'cout':
+  C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_a.v: (a&b)|(b&cin)|(a&cin)
+  C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_b.v: (a&b)
+Different assignment for 'sum':
+  C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_a.v: a^b^cin
+  C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/adder_b.v: a^b
+LEC Analysis Completed.
+
+

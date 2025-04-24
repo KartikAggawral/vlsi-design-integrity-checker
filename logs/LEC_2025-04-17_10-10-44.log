@@ -1,0 +1,6 @@
+Running Logical Equivalence Checker (LEC) on RTL Files: C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/d_flip_flop.v and C:/Users/Admin/Desktop/vlsi_integrity_checker/lec_files/four_bit_adder.v...
+
+LEC Passed: Both files are logically equivalent!
+LEC Analysis Completed.
+
+

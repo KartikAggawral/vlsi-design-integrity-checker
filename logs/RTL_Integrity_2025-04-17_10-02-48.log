@@ -1,0 +1,7 @@
+Checking C:/Users/Admin/Desktop/vlsi_integrity_checker/rtl/multi_clock_violation.sv...
+Module detected: multi_clock_violation
+WARNING: Hardcoded constant found on line 8. Consider using parameters/macros.
+ERROR: Unconnected port ''.
+Linting completed.
+
+
